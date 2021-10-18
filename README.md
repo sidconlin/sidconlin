@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sidconlin
-- 👀 I’m interested in being annoying 
-- 🌱 I’m currently learning how to find more people to annoy 
-- 💞️ I’m looking to collaborate on being a pain in the arse
-- 📫 How to reach me quess 
+- 👀 I’m interested in meeting people 
+- 🌱 I’m currently learning how to meet more people
+- 💞️ I’m looking to collaborate on saving the earth 🌎 
+- 📫 How to reach me ... send a message 
 
 <!---
 sidconlin/sidconlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
